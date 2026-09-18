@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1789168390044,
+    "name": "ddgdfgdfdf",
+    "surname": "bdbcbcb",
+    "phone": "+380 (06) 653-13-33",
+    "delivery": "pickup",
+    "city": null,
+    "branch": null,
+    "cart": [
+      {
+        "name": "Сковорода",
+        "price": 1200,
+        "img": "http://127.0.0.1:5500/images/pan.png",
+        "qty": 1
+      }
+    ],
+    "date": "2026-09-11T23:13:10.044Z",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0"
+  },
+  {
+    "id": 1789173778985,
+    "name": "ddgdfgdfdf",
+    "surname": "bdbcbcb",
+    "phone": "+380 (06) 653-13-33",
+    "delivery": "nova",
+    "city": "kiev",
+    "branch": "4",
+    "cart": [
+      {
+        "name": "Сковорода",
+        "price": 1200,
+        "img": "http://127.0.0.1:5500/images/pan.png",
+        "qty": 1
+      }
+    ],
+    "date": "2026-09-12T00:42:58.985Z",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0"
+  },
+  {
+    "id": 1789174941479,
+    "name": "ddgdfgdfdf",
+    "surname": "bdbcbcb",
+    "phone": "+380 (06) 653-13-33",
+    "delivery": "nova",
+    "city": "kiev",
+    "branch": "3",
+    "cart": [
+      {
+        "name": "Сковорода",
+        "price": 1200,
+        "img": "http://127.0.0.1:5500/images/pan.png",
+        "qty": 1
+      }
+    ],
+    "date": "2026-09-12T01:02:21.479Z",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0"
+  },
+  {
+    "id": 1789260626450,
+    "name": "ddgdfgdfdf",
+    "surname": "bdbcbcb",
+    "phone": "+380 (06) 653-13-76",
+    "delivery": "pickup",
+    "city": null,
+    "branch": null,
+    "cart": [
+      {
+        "name": "Сковорода",
+        "price": 1200,
+        "img": "http://127.0.0.1:5500/images/pan.png",
+        "qty": 1
+      }
+    ],
+    "date": "2026-09-13T00:50:26.450Z",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0"
+  },
+  {
+    "id": 1789260641780,
+    "name": "ddgdfgdfdf",
+    "surname": "bdbcbcb",
+    "phone": "+380 (55) 555-55-55",
+    "delivery": "courier",
+    "city": null,
+    "branch": null,
+    "cart": [
+      {
+        "name": "Набор кружек",
+        "price": 850,
+        "img": "http://127.0.0.1:5500/images/cup.png",
+        "qty": 1
+      }
+    ],
+    "date": "2026-09-13T00:50:41.780Z",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0"
+  },
+  {
+    "id": 1789260656447,
+    "name": "xxxx",
+    "surname": "xxxx",
+    "phone": "+380 (09) 999-99-99",
+    "delivery": "courier",
+    "city": null,
+    "branch": null,
+    "cart": [
+      {
+        "name": "Диван",
+        "price": 15900,
+        "img": "http://127.0.0.1:5500/images/sofa.png",
+        "qty": 1
+      }
+    ],
+    "date": "2026-09-13T00:50:56.447Z",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0"
+  },
+  {
+    "id": 1789260671741,
+    "name": "d",
+    "surname": "e",
+    "phone": "+380 (32) 211-11-11",
+    "delivery": "pickup",
+    "city": null,
+    "branch": null,
+    "cart": [
+      {
+        "name": "Зеркало",
+        "price": 5600,
+        "img": "http://127.0.0.1:5500/images/mirror.png",
+        "qty": 1
+      }
+    ],
+    "date": "2026-09-13T00:51:11.741Z",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0"
+  },
+  {
+    "id": 1789260682518,
+    "name": "ddgdfgdfdf",
+    "surname": "bdbcbcb",
+    "phone": "+380 (06) 653-13-33",
+    "delivery": "courier",
+    "city": null,
+    "branch": null,
+    "cart": [
+      {
+        "name": "Кровать",
+        "price": 12000,
+        "img": "http://127.0.0.1:5500/images/bed.png",
+        "qty": 1
+      }
+    ],
+    "date": "2026-09-13T00:51:22.518Z",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0"
+  },
+  {
+    "id": 1789260717565,
+    "name": "ddgdfgdfdf",
+    "surname": "bdbcbcb",
+    "phone": "+380 (06) 653-13-33",
+    "delivery": "pickup",
+    "city": null,
+    "branch": null,
+    "cart": [
+      {
+        "name": "Сковорода",
+        "price": 1200,
+        "img": "http://127.0.0.1:5500/images/pan.png",
+        "qty": 1
+      }
+    ],
+    "date": "2026-09-13T00:51:57.565Z",
+    "ip": "::ffff:127.0.0.1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0"
+  },
+  {
+    "id": 1789261983377,
+    "name": "ddgdfgdfdf",
+    "surname": "bdbcbcb",
+    "phone": "+380 (06) 653-13-33",
+    "delivery": "nova",
+    "city": "kiev",
+    "branch": "2",
+    "cart": [
+      {
+        "name": "Сковорода",
+        "price": 1200,
+        "img": "http://127.0.0.1:5500/images/pan.png",
+        "qty": 1
+      }
+    ],
+    "date": "2026-09-13T01:13:03.377Z",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0"
+  },
+  {
+    "id": 1789341063560,
+    "name": "ddgdfgdfdf",
+    "surname": "bdbcbcb",
+    "phone": "+380 (06) 653-13-33",
+    "delivery": "pickup",
+    "city": null,
+    "branch": null,
+    "cart": [
+      {
+        "name": "Зеркало",
+        "price": 5600,
+        "img": "http://127.0.0.1:5500/images/mirror.png",
+        "qty": 4
+      }
+    ],
+    "date": "2026-09-13T23:11:03.560Z",
+    "ip": "::ffff:127.0.0.1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0"
+  },
+  {
+    "id": 1789341087043,
+    "name": "ddgdfgdfdf",
+    "surname": "bdbcbcb",
+    "phone": "+380 (06) 653-13-33",
+    "delivery": "courier",
+    "city": null,
+    "branch": null,
+    "cart": [
+      {
+        "name": "Кровать",
+        "price": 12000,
+        "img": "http://127.0.0.1:5500/images/bed.png",
+        "qty": 9
+      }
+    ],
+    "date": "2026-09-13T23:11:27.043Z",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0"
+  },
+  {
+    "id": 1789341110977,
+    "name": "ddgdfgdfdf",
+    "surname": "bdbcbcb",
+    "phone": "+380 (06) 653-13-33",
+    "delivery": "nova",
+    "city": "kiev",
+    "branch": "4",
+    "cart": [
+      {
+        "name": "Картина",
+        "price": 4200,
+        "img": "http://127.0.0.1:5500/images/picture.png",
+        "qty": 1
+      }
+    ],
+    "date": "2026-09-13T23:11:50.977Z",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0"
+  },
+  {
+    "id": 1789341143931,
+    "name": "ddgdfgdfdf",
+    "surname": "bdbcbcb",
+    "phone": "+380 (06) 653-13-33",
+    "delivery": "courier",
+    "city": null,
+    "branch": null,
+    "cart": [
+      {
+        "name": "Сковорода",
+        "price": 1200,
+        "img": "http://127.0.0.1:5500/images/pan.png",
+        "qty": 1
+      }
+    ],
+    "date": "2026-09-13T23:12:23.931Z",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0"
+  },
+  {
+    "id": 1789345248101,
+    "name": "ddgdfgdfdf",
+    "surname": "bdbcbcb",
+    "phone": "+380 (06) 653-13-33",
+    "delivery": "nova",
+    "city": "kiev",
+    "branch": "4",
+    "cart": [
+      {
+        "name": "Сковорода",
+        "price": 1200,
+        "img": "http://127.0.0.1:5500/images/pan.png",
+        "qty": 4
+      }
+    ],
+    "date": "2026-09-14T00:20:48.101Z",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0"
+  },
+  {
+    "id": 1789347354162,
+    "name": "ddgdfgdfdf",
+    "surname": "bdbcbcb",
+    "phone": "+380 (06) 653-13-33",
+    "delivery": "nova",
+    "city": "kiev",
+    "branch": "2",
+    "cart": [
+      {
+        "name": "Сковорода",
+        "price": 1200,
+        "img": "http://127.0.0.1:5500/images/pan.png",
+        "qty": 1
+      }
+    ],
+    "date": "2026-09-14T00:55:54.162Z",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0"
+  },
+  {
+    "id": 1789425431417,
+    "name": "d",
+    "surname": "e",
+    "phone": "+380 (32) 211-11-11",
+    "delivery": "pickup",
+    "city": null,
+    "branch": null,
+    "cart": [
+      {
+        "name": "Зеркало",
+        "price": 5600,
+        "img": "http://127.0.0.1:5500/images/mirror.png",
+        "qty": 1
+      }
+    ],
+    "date": "2026-09-14T22:37:11.417Z",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0"
+  },
+  {
+    "id": 1789425445398,
+    "name": "ddgdfgdfdf",
+    "surname": "bdbcbcb",
+    "phone": "+380 (06) 653-13-33",
+    "delivery": "pickup",
+    "city": null,
+    "branch": null,
+    "cart": [
+      {
+        "name": "Кровать",
+        "price": 12000,
+        "img": "http://127.0.0.1:5500/images/bed.png",
+        "qty": 1
+      }
+    ],
+    "date": "2026-09-14T22:37:25.398Z",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0"
+  },
+  {
+    "id": 1789425459629,
+    "name": "ddgdfgdfdf",
+    "surname": "bdbcbcb",
+    "phone": "+380 (06) 653-13-33",
+    "delivery": "pickup",
+    "city": null,
+    "branch": null,
+    "cart": [
+      {
+        "name": "Картина",
+        "price": 4200,
+        "img": "http://127.0.0.1:5500/images/picture.png",
+        "qty": 1
+      }
+    ],
+    "date": "2026-09-14T22:37:39.629Z",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0"
+  },
+  {
+    "id": 1789425473435,
+    "name": "ddgdfgdfdf",
+    "surname": "bdbcbcb",
+    "phone": "+380 (06) 653-13-33",
+    "delivery": "pickup",
+    "city": null,
+    "branch": null,
+    "cart": [
+      {
+        "name": "Ваза",
+        "price": 900,
+        "img": "http://127.0.0.1:5500/images/vase.png",
+        "qty": 1
+      }
+    ],
+    "date": "2026-09-14T22:37:53.435Z",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0"
+  },
+  {
+    "id": 1789425486312,
+    "name": "ddgdfgdfdf",
+    "surname": "bdbcbcb",
+    "phone": "+380 (06) 653-13-33",
+    "delivery": "courier",
+    "city": null,
+    "branch": null,
+    "cart": [
+      {
+        "name": "Стол",
+        "price": 7200,
+        "img": "http://127.0.0.1:5500/images/table.png",
+        "qty": 1
+      }
+    ],
+    "date": "2026-09-14T22:38:06.312Z",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0"
+  },
+  {
+    "id": 1789425494814,
+    "name": "ddgdfgdfdf",
+    "surname": "bdbcbcb",
+    "phone": "+380 (06) 653-13-33",
+    "delivery": "courier",
+    "city": null,
+    "branch": null,
+    "cart": [
+      {
+        "name": "Стул",
+        "price": 4500,
+        "img": "http://127.0.0.1:5500/images/chair.png",
+        "qty": 1
+      }
+    ],
+    "date": "2026-09-14T22:38:14.814Z",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0"
+  },
+  {
+    "id": 1789425513464,
+    "name": "ddgdfgdfdf",
+    "surname": "bdbcbcb",
+    "phone": "+380 (06) 653-13-33",
+    "delivery": "nova",
+    "city": "kiev",
+    "branch": "3",
+    "cart": [
+      {
+        "name": "Настольная лампа",
+        "price": 2990,
+        "img": "http://127.0.0.1:5500/images/lamp.png",
+        "qty": 1
+      }
+    ],
+    "date": "2026-09-14T22:38:33.464Z",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0"
+  },
+  {
+    "id": 1789425595960,
+    "name": "ddgdfgdfdf",
+    "surname": "bdbcbcb",
+    "phone": "+380 (06) 653-13-33",
+    "delivery": "courier",
+    "city": null,
+    "branch": null,
+    "cart": [
+      {
+        "name": "Сковорода",
+        "price": 1200,
+        "img": "http://127.0.0.1:5500/images/pan.png",
+        "qty": 1
+      }
+    ],
+    "date": "2026-09-14T22:39:55.960Z",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0"
+  },
+  {
+    "id": 1789427584339,
+    "name": "ddgdfgdfdf",
+    "surname": "bdbcbcb",
+    "phone": "+380 (06) 653-13-33",
+    "delivery": "nova",
+    "city": "kiev",
+    "branch": "4",
+    "cart": [
+      {
+        "name": "Сковорода",
+        "price": 1200,
+        "img": "http://127.0.0.1:5500/images/pan.png",
+        "qty": 1
+      }
+    ],
+    "date": "2026-09-14T23:13:04.339Z",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0"
+  },
+  {
+    "id": 1789600326192,
+    "name": "ddgdfgdfdf",
+    "surname": "bdbcbcb",
+    "phone": "+380 (06) 653-13-33",
+    "delivery": "pickup",
+    "city": null,
+    "branch": null,
+    "cart": [
+      {
+        "name": "Торшер",
+        "price": 2800,
+        "img": "http://127.0.0.1:5500/images/lamp.png",
+        "qty": 1
+      }
+    ],
+    "date": "2026-09-16T23:12:06.192Z",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0"
+  },
+  {
+    "id": 1789600337490,
+    "name": "xxxx",
+    "surname": "xxxx",
+    "phone": "+380 (09) 999-99-99",
+    "delivery": "pickup",
+    "city": null,
+    "branch": null,
+    "cart": [
+      {
+        "name": "Диван",
+        "price": 15900,
+        "img": "http://127.0.0.1:5500/images/sofa.png",
+        "qty": 1
+      }
+    ],
+    "date": "2026-09-16T23:12:17.490Z",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0"
+  },
+  {
+    "id": 1789600350702,
+    "name": "d",
+    "surname": "e",
+    "phone": "+380 (32) 211-11-11",
+    "delivery": "pickup",
+    "city": null,
+    "branch": null,
+    "cart": [
+      {
+        "name": "Зеркало",
+        "price": 5600,
+        "img": "http://127.0.0.1:5500/images/mirror.png",
+        "qty": 1
+      }
+    ],
+    "date": "2026-09-16T23:12:30.702Z",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0"
+  },
+  {
+    "id": 1789600361533,
+    "name": "ddgdfgdfdf",
+    "surname": "bdbcbcb",
+    "phone": "+380 (06) 653-13-33",
+    "delivery": "pickup",
+    "city": null,
+    "branch": null,
+    "cart": [
+      {
+        "name": "Кровать",
+        "price": 12000,
+        "img": "http://127.0.0.1:5500/images/bed.png",
+        "qty": 1
+      }
+    ],
+    "date": "2026-09-16T23:12:41.533Z",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0"
+  },
+  {
+    "id": 1789600375668,
+    "name": "ddgdfgdfdf",
+    "surname": "bdbcbcb",
+    "phone": "+380 (06) 653-13-33",
+    "delivery": "pickup",
+    "city": null,
+    "branch": null,
+    "cart": [
+      {
+        "name": "Ваза",
+        "price": 900,
+        "img": "http://127.0.0.1:5500/images/vase.png",
+        "qty": 1
+      }
+    ],
+    "date": "2026-09-16T23:12:55.668Z",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0"
+  },
+  {
+    "id": 1789600386303,
+    "name": "ddgdfgdfdf",
+    "surname": "bdbcbcb",
+    "phone": "+380 (06) 653-13-33",
+    "delivery": "pickup",
+    "city": null,
+    "branch": null,
+    "cart": [
+      {
+        "name": "Картина",
+        "price": 4200,
+        "img": "http://127.0.0.1:5500/images/picture.png",
+        "qty": 1
+      }
+    ],
+    "date": "2026-09-16T23:13:06.303Z",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0"
+  },
+  {
+    "id": 1789600397336,
+    "name": "ddgdfgdfdf",
+    "surname": "bdbcbcb",
+    "phone": "+380 (06) 653-13-33",
+    "delivery": "pickup",
+    "city": null,
+    "branch": null,
+    "cart": [
+      {
+        "name": "Стол",
+        "price": 7200,
+        "img": "http://127.0.0.1:5500/images/table.png",
+        "qty": 1
+      }
+    ],
+    "date": "2026-09-16T23:13:17.336Z",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0"
+  },
+  {
+    "id": 1789600407939,
+    "name": "ddgdfgdfdf",
+    "surname": "bdbcbcb",
+    "phone": "+380 (06) 653-13-33",
+    "delivery": "pickup",
+    "city": null,
+    "branch": null,
+    "cart": [
+      {
+        "name": "Стул",
+        "price": 4500,
+        "img": "http://127.0.0.1:5500/images/chair.png",
+        "qty": 1
+      }
+    ],
+    "date": "2026-09-16T23:13:27.939Z",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0"
+  },
+  {
+    "id": 1789600423629,
+    "name": "ddgdfgdfdf",
+    "surname": "bdbcbcb",
+    "phone": "+380 (06) 653-13-33",
+    "delivery": "nova",
+    "city": "kiev",
+    "branch": "2",
+    "cart": [
+      {
+        "name": "Настольная лампа",
+        "price": 2990,
+        "img": "http://127.0.0.1:5500/images/lamp.png",
+        "qty": 1
+      }
+    ],
+    "date": "2026-09-16T23:13:43.629Z",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0"
+  },
+  {
+    "id": 1789600436866,
+    "name": "d",
+    "surname": "e",
+    "phone": "+380 (32) 211-11-11",
+    "delivery": "pickup",
+    "city": null,
+    "branch": null,
+    "cart": [
+      {
+        "name": "Зеркало",
+        "price": 5600,
+        "img": "http://127.0.0.1:5500/images/mirror.png",
+        "qty": 1
+      }
+    ],
+    "date": "2026-09-16T23:13:56.866Z",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0"
+  },
+  {
+    "id": 1789600447200,
+    "name": "zas",
+    "surname": "zzzz",
+    "phone": "+380 (33) 333-33-33",
+    "delivery": "pickup",
+    "city": null,
+    "branch": null,
+    "cart": [
+      {
+        "name": "Ковер",
+        "price": 3800,
+        "img": "http://127.0.0.1:5500/images/carpet1.png",
+        "qty": 1
+      }
+    ],
+    "date": "2026-09-16T23:14:07.200Z",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0"
+  },
+  {
+    "id": 1789600542918,
+    "name": "ddgdfgdfdf",
+    "surname": "bdbcbcb",
+    "phone": "+380 (06) 653-13-33",
+    "delivery": "pickup",
+    "city": null,
+    "branch": null,
+    "cart": [
+      {
+        "name": "Сковорода",
+        "price": 1200,
+        "img": "http://127.0.0.1:5500/images/pan.png",
+        "qty": 1
+      }
+    ],
+    "date": "2026-09-16T23:15:42.918Z",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0"
+  },
+  {
+    "id": 1789602674717,
+    "name": "ddgdfgdfdf",
+    "surname": "bdbcbcb",
+    "phone": "+380 (06) 653-13-33",
+    "delivery": "nova",
+    "city": "kiev",
+    "branch": "3",
+    "cart": [
+      {
+        "name": "Сковорода",
+        "price": 1200,
+        "img": "http://127.0.0.1:5500/images/pan.png",
+        "qty": 1
+      }
+    ],
+    "date": "2026-09-16T23:51:14.717Z",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0"
+  },
+  {
+    "id": 1789609064371,
+    "name": "ddgdfgdfdf",
+    "surname": "bdbcbcb",
+    "phone": "+380 (06) 653-13-33",
+    "delivery": "nova",
+    "city": "kiev",
+    "branch": "4",
+    "cart": [
+      {
+        "name": "Сковорода",
+        "price": 1200,
+        "img": "http://127.0.0.1:5500/images/pan.png",
+        "qty": 1
+      }
+    ],
+    "date": "2026-09-17T01:37:44.371Z",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0"
+  },
+  {
+    "id": 1789689577850,
+    "name": "ddgdfgdfdf",
+    "surname": "bdbcbcb",
+    "phone": "+380 (06) 653-13-33",
+    "delivery": "pickup",
+    "city": null,
+    "branch": null,
+    "cart": [
+      {
+        "name": "Сковорода",
+        "price": 1200,
+        "img": "http://127.0.0.1:5500/images/pan.png",
+        "qty": 1
+      }
+    ],
+    "date": "2026-09-17T23:59:37.850Z",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0"
+  }
+]
